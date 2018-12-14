@@ -1,4 +1,11 @@
-//select 1 button
+$(document).ready(function(){
+
+
 $("#one").on("click", function(){
-	alert("ONE");
+	;
+})
+
+
+
+
 });
